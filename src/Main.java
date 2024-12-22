@@ -10,6 +10,9 @@ public class Main {
         division(number1, number2);
 
     }
+    public static void bFeature (){
+        System.out.println("hello from feature b");
+    }
     static void summation(int number1, int number2) {
         System.out.println("Welcome to summation method");
         System.out.println(number1 + number2);
