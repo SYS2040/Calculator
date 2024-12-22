@@ -10,6 +10,9 @@ public class Main {
         division(number1, number2);
 
     }
+    public static void bFeature (){
+        System.out.println("hello from feature b");
+    }
     public static void aFeature(){
         System.out.println("Hello From feature a ");
     }
