@@ -14,6 +14,7 @@ public class Main {
     static void summation(int number1, int number2) {
         System.out.println("Welcome to summation method");
         System.out.println(number1 + number2);
+        System.out.println("Hello");
     }
     static void division(int number1, int number2) {
 
